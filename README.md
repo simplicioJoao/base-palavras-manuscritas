@@ -1,2 +1,2 @@
-# base-palavras-manuscritas
+# Base de palavras manuscritas
 Projeto de extensão para criação de uma base de palavras manuscritas
